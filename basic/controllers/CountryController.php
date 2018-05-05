@@ -33,5 +33,7 @@ class CountryController extends Controller
            'pagination'=>$pagination,
         ]);
 
+        echo 'hello';
+
     }
 }
