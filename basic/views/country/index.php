@@ -20,5 +20,5 @@ use yii\widgets\LinkPager;
     <?php endforeach; ?>
 </ul>
 
-123
+rongsw
 <?= LinkPager::widget(['pagination' => $pagination]) ?>
